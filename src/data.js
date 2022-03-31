@@ -46,7 +46,7 @@ export const cardData = [
       },
       {
         name: "LinkedIn",
-        prop2: "https://www.linkedin.com/in/mohit04patel/",
+        prop2: "mohit04patel",
         logo: "/assets/images/linkedin.png",
         next: "/assets/images/next.png",
       },
