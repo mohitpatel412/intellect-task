@@ -10,11 +10,17 @@ const CardComponent3 = () => {
         <div className="flex justify-center align-middle items-center flex-wrap md:px-12">
           <div className="md:w-1/2">
             <h3 className="md:text-xl text-purple-800 py-1">Welcome,</h3>
-            <h1 className="md:text-3xl text-purple-900 font-bold py-1">
+            <h1 className="md:text-4xl text-purple-900 font-bold py-1">
               Mohit Patel
             </h1>
-            <button className="py-1 px-6 rounded-2xl text-white font-bold bg-orange-300 my-2">
-              Resume
+            <button className="py-1 md:pt-6 px-6 rounded-2xl text-white font-bold bg-orange-300 my-2">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://drive.google.com/file/d/1V9gEc1RU_BN4mKJzFlnNepv8RzACvk4H/view?usp=sharing"
+              >
+                Resume
+              </a>
             </button>
           </div>
           <div className="md:w-1/2">
