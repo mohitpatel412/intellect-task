@@ -13,7 +13,7 @@ const CardComponent3 = () => {
             <h1 className="md:text-4xl text-purple-900 font-bold py-1">
               Mohit Patel
             </h1>
-            <button className="py-1 md:pt-6 px-6 rounded-2xl text-white font-bold bg-orange-300 my-2">
+            <button className="py-2 md:mt-4 px-6 rounded-2xl text-white font-bold bg-orange-300 my-2">
               <a
                 target="_blank"
                 rel="noreferrer"
